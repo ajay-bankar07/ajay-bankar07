@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Bankar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ajay-bankar07" /> </p>
+<p align="left"></p>
 
 <p align="left"> <a href="https://twitter.com/ajay_bankar07" target="blank"><img src="https://img.shields.io/twitter/follow/ajay_bankar07?logo=twitter&style=for-the-badge" alt="ajay_bankar07" /></a> </p>
 
