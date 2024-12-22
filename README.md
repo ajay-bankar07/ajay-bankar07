@@ -5,7 +5,8 @@ I'm a student passionate about coding and web development, currently exploring t
 
 📚 Alongside coding, I create beginner-friendly websites and templates, solve challenges on platforms like LeetCode, and share my journey to inspire others.  
 
-📢 I’m open to collaborating on web development projects, speaking at events, or sharing insights. Feel free to connect with me on LinkedIn: [Ajay Bankar](www.linkedin.com/in/ajaybankar) or drop me an email: ajaybankar.dev@gmail.com  
+📢 I’m open to collaborating on web development projects, speaking at events, or sharing insights. Feel free to connect with me on LinkedIn: [Ajay Bankar](https://www.linkedin.com/in/ajaybankar/)
+) or drop me an email: ajaybankar.dev@gmail.com  
 
 ---
 
@@ -22,5 +23,5 @@ I'm a student passionate about coding and web development, currently exploring t
 
 Cheers,  
 Ajay Bankar  
-[GitHub](https://github.com/ajay-bankar07) | [LinkedIn](www.linkedin.com/in/ajaybankar)  
+[GitHub](https://github.com/ajay-bankar07) | [LinkedIn](https://www.linkedin.com/in/ajaybankar/)  
 
