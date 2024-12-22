@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Apna College Paid batch delta 5.0**
 
 - 📫 How to reach me **ajaybankar0106@gmail.com**
+- LinkedIn Link https://www.linkedin.com/in/ajaybankar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
