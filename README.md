@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-bankar07&show_icons=true&locale=en&layout=compact" alt="ajay-bankar07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-bankar07&show_icons=true&locale=en" alt="ajay-bankar07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-bankar07&" alt="ajay-bankar07" /></p>
